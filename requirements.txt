@@ -1,0 +1,7 @@
+torch
+torchvision
+libsndfile1
+python-speech-features
+fastapi
+uvicorn
+librosa
